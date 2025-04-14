@@ -3,7 +3,7 @@
 
 This is **PiCollision**, a physics simulation of colliding blocks built with Pygame. The project was developed in **2 days** and is inspired by the phenomenal 3Blue1Brown video: [π by Collisions](https://www.youtube.com/watch?v=HEfHFsfGXjs). The simulation visually demonstrates how a series of elastic collisions can reveal digits of π.
 
-<img src="https://github.com/catab60/PiCollision/blob/main/Preview.gif?raw=true" width="800" height="800">
+<img src="https://raw.githubusercontent.com/catab60/PiCollision/c69a8034202febd4ee22b24ee4bde85aef330356/Preview.gif" width="800" height="800">
 
 ## About the Project
 
